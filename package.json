@@ -1,0 +1,27 @@
+{
+  "name": "hexo-butterfly-categories-card-gabriel",
+  "version": "1.0.3",
+  "description": "A categories card plugin for theme-butterfly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiabao9/hexo-butterfly-categories-card-gabriel.git"
+  },
+  "keywords": [
+    "hexo",
+    "butterfly",
+    "plugin"
+  ],
+  "author": "gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiabao9/hexo-butterfly-categories-card-gabriel/issues"
+  },
+  "homepage": "https://github.com/lijiabao9/hexo-butterfly-categories-card-gabriel#readme",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
